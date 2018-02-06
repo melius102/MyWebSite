@@ -12,7 +12,7 @@
 		String id = request.getParameter("id");
 		String pwd = request.getParameter("pwd");
 	%>
-	<h1>Hello, JSP</h1>
+	<h1>Hello, World</h1>
 	<h1>
 		Identification:
 		<%=id%></h1>
