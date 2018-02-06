@@ -14,10 +14,10 @@
 	%>
 	<h1>Hello, World</h1>
 	<h1>
-		Identification:
+		Identification(ID):
 		<%=id%></h1>
 	<h1>
-		Password:
+		Password(PW):
 		<%=pwd%></h1>
 </body>
 </html>
