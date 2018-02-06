@@ -14,10 +14,10 @@
 	%>
 	<h1>Hello, JSP</h1>
 	<h1>
-		Identification,
+		Identification:
 		<%=id%></h1>
 	<h1>
-		Password,
+		Password:
 		<%=pwd%></h1>
 </body>
 </html>
